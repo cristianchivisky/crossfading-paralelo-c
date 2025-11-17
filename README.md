@@ -2,8 +2,7 @@
 
 Este proyecto implementa un **efecto de transición (cross-fading)** entre una imagen en color y su versión en escala de grises, generando una secuencia de frames y luego un video.  
 
-![imagen_color](./imagen_color_800x800.png)!
-[imagen_blanco/negro](./imagen_b_n.png)
+<img src="./imagen_color_800x800.png" width="200">        <img src="./imagen_b_n.png" width="200">
 
 Incluye **tres versiones en C**:
 - ✅ **Implementación secuencial**
